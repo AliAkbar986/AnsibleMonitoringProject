@@ -1,11 +1,11 @@
 [prometheus]
-51.120.2.16  ansible_ssh_user=azureuser
+ubuntu1  ansible_ssh_user=azureuser
 
 [node_exporter]
-51.120.2.16  ansible_ssh_user=azureuser
+ubuntu1  ansible_ssh_user=azureuser
 
 [alertmanager]
-51.120.2.16  ansible_ssh_user=azureuser
+ubuntu1  ansible_ssh_user=azureuser
 
 [grafana]
-51.120.2.16  ansible_ssh_user=azureuser
+ubuntu1  ansible_ssh_user=azureuser
